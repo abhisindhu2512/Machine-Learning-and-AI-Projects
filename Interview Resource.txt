@@ -1,0 +1,12 @@
+1) NLP Questions :- https://www.analytixlabs.co.in/blog/nlp-interview-questions/
+2) Python Coding Test Questions :- https://codingcompiler.com/python-coding-interview-questions-answers/
+3) Machine Learning Questions :- https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+4) Machine Learning Questions :- https://github.com/andrewekhalel/MLQuestions#:~:text=%EE%80%80Machine%20Learning%20Interview%20Questions%EE%80%81%201%29%20What%27s%20the%20trade-off,How%20do%20you%20combat%20the%20curse%20of%20dimensionality%3F
+5) Python Interview Questions :- https://www.edureka.co/blog/interview-questions/python-interview-questions/
+6) Deep Learning Questions :- https://towardsdatascience.com/50-deep-learning-interview-questions-part-1-2-8bbc8a00ec61
+7) https://www.mygreatlearning.com/blog/deep-learning-interview-questions/
+8) https://intellipaat.com/blog/interview-question/deep-learning-interview-questions/
+9) Statistics Interview Questions :- https://analyticsindiamag.com/40-interview-questions-on-statistics-for-data-scientists/
+10) https://intellipaat.com/blog/interview-question/statistics-interview-questions/#:~:text=Top%2075%20Statistics%20Interview%20Questions%201%20Q1.%20How,are%20the%20types%20of%20selection%20bias%20in%20statistics%3F
+11) https://medium.com/@ArtisOne/data-science-interview-questions-statistics-4a731ec0be59
+12) Deep Learning :- https://github.com/mbadry1/DeepLearning.ai-Summary
